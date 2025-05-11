@@ -8,8 +8,8 @@ Script Purpose:
   'silver', and 'gold'.
 
 WARNING:
-  Running this script willd rop the entire 'DataWarehouse' database if it exists. All data in the database will be permanently
-  deleted. Proceed with caution and ensure you have proper backups before running this script.
+  Running this script willd rop the entire 'DataWarehouse' database if it exists. All data in the database will be 
+  permanently deleted. Proceed with caution and ensure you have proper backups before running this script.
 */
 
 USE master;
