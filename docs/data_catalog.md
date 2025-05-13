@@ -1,4 +1,4 @@
-#### 1. gold.dim_customers ####
+### 1. gold.dim_customers ###
 
 | Column Name | Date Type | Description
 | --- | --- | --- |
